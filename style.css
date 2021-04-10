@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding-top: 10px;
+    text-align: center;
+}
+img{
+     width: 150px;
+    border-radius: 50%;
+}
+#home{
+    background: linear-gradient(#60ebeb 0%,#27ae60 100%);
+}
+.line{
+    height: 10px;
+    width: 100px;
+    background-color: #000;
+    margin: 8px auto;
+}
+p{
+    font-size: 20px;
+    line-height: normal;
+    margin: auto;
+    max-width: 500px;
+}
+#bi {
+    text-align: center;
+    padding: 20px;
+}
+.ayan{
+    list-style: none;
+    top: 10px;
+    right: 20px;
+    cursor: progress;
+    z-index: 10;
+    position:fixed;
+}
+.link{
+    float: left;
+    padding-top: 5px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+#name{
+    font-size: 50px;
+    font-family:fantasy;
+}
